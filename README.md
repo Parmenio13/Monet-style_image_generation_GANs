@@ -109,3 +109,7 @@ Generative Adversarial Networks consist of:
 3. Use larger datasets with more artistic styles
 4. Implement meta-learning to adapt to new styles faster
 5. Add user control over style transfer degree
+
+**Final result submission to Kaggle competition**:
+![kaggle_submission_leaderboard](https://github.com/user-attachments/assets/5ea7dbbd-f56b-4a1f-b9d0-4de4dd8d1141)
+
